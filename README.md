@@ -1,5 +1,5 @@
 # PSRefractometerCalc
-A PowerShell-based tool for adjusting refractometer readings of fermented wort, inspired by Jonathan Braley's [Python tool](https://github.com/DAMNITRENZO/Refractometer_ABV_Python).
+A PowerShell-based tool for adjusting refractometer readings of fermented wort, inspired by Jonathan Braley's [Python tool](https://github.com/DAMNITRENZO/Refractometer_ABV_Python). Thanks to [Sean Terrill](http://seanterrill.com/2011/04/07/refractometer-fg-results/) as well for the equations!
 
 ### Syntax
 Convert-RefractometerReading.ps1 \[-OriginalGravity\] \<Double\> \[-FinalGravity\] \<Double\> [\<CommonParameters\>]
